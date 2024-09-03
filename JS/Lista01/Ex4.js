@@ -14,4 +14,5 @@ switch(colour){
         break
     case '':
         console.log('Você não escolheu uma cor.')
+        break
 }
